@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="https://github.com/SanskarSoni03/SanskarSoni03/blob/main/Banner.png" alt="Sanskar Soni Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hello, I'm Sanskar Soni</h1>
 
-- 🌱 I’m currently learning **Flask (Python Framework)**
+- 🌱 I’m currently learning **Flask (Python Framework)**  
+- 💬 I'm currently gaining hands-on experience with Python, **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**
 
-- 💬 I'm currently gaining hands-on experience with Python **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**
+- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing)
 
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing](https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing)
+---
 
 ## 🛠️ Technical Toolkit
 
@@ -15,6 +18,8 @@
 - **Tools:** Excel, Tableau
 - **Database:** MySQL
 - **Developer Tools:** PyCharm, VS Code
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +33,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sonisanskar0001" height="30" width="40" />
   </a>
 </p>
+
+---
 
 ### ✨ Quote
 
