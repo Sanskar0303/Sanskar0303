@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/SanskarSoni03/SanskarSoni03/blob/main/Banner.png" alt="Sanskar Soni Banner" width="100%"](https://github.com/Sanskar0303/Sanskar0303/blob/main/Banner.png?raw=true) />
+  <img src="https://github.com/Sanskar0303/Sanskar0303/blob/main/Banner.png?raw=true" alt="Sanskar Soni Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Sanskar Soni</h1>
