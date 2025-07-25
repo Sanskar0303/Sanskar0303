@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Sanskar Soni</h1>
 
-<!--
-**Sanskar0303/Sanskar0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Flask (Python Framework)**
 
-Here are some ideas to get you started:
+- 💬 I'm currently gaining hands-on experience with Python **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing](https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing)
+
+## 🛠️ Technical Toolkit
+
+- **Programming Languages:** Python, SQL, C++
+- **Python Libraries:** Pandas
+- **Tools:** Excel, Tableau
+- **Database:** MySQL
+- **Developer Tools:** PyCharm, VS Code
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:sonisanskar0001@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email: sonisanskar0001@gmail.com" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sanskarsoni03" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskarsoni03" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@sonisanskar0001" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sonisanskar0001" height="30" width="40" />
+  </a>
+</p>
+
+### ✨ Quote
+
+> "Stay curious, keep learning, and build solutions that make a difference."
