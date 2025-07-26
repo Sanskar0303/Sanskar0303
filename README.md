@@ -2,7 +2,7 @@
   <img src="https://github.com/Sanskar0303/Sanskar0303/blob/main/Banner.png?raw=true" alt="Sanskar Soni Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Sanskar Soni</h1>
+<h1 align="center">Hello, I'm Sanskar Soni</h1>
 
 - 🌱 I’m currently learning **Flask (Python Framework)**  
 - 💬 Currently gaining hands-on experience with Python, **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**
