@@ -7,7 +7,7 @@
 - I’m currently learning **Flask (Python Framework)**  
 - Gaining hands-on experience with Python, **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**
 - My skills also include **DBMS**, **Cloud Computing**, **Data Exploration**, and working with Python libraries like **Pandas**.  
-- Know about my experiences: [View My Resume](https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing)
+- Know about my experiences: [View My Resume]([https://drive.google.com/file/d/1GSOMQHY89NERtieQiGemcOB8pA233dcQ/view?usp=sharing](https://drive.google.com/file/d/1PSpR3cCjK_yO2UtXww0a65a4I8hLFKkW/view?usp=sharing))
 - Reach me at: **sonisanskar0001@gmail.com**
 
 ---
