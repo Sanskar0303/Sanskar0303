@@ -16,7 +16,7 @@
 
 - **Programming Languages:** Python, SQL, C++
 - **Python Libraries:** Pandas
-- **Tools:** Excel, Tableau
+- **Tools:** Excel, Tableau, Power BI
 - **Database:** MySQL
 - **Developer Tools:** PyCharm, VS Code
 
