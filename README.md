@@ -8,7 +8,7 @@
 - Gaining hands-on experience with Python, **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**  
 - My skills also include **DBMS**, **Cloud Computing**, **Data Exploration**, and working with Python libraries like **Pandas**.  
 
-📄 **Know about my experiences:** [View My Resume](https://drive.google.com/file/d/1Zb7gWuiFttYrtJnF8vdysieET4JqMO6g/view?usp=sharing)  
+📄 **Know about my experiences:** [View My Resume](https://drive.google.com/file/d/1qXzljyyXqq8ZFTszPx5psgcI-e8ij_H1/view?usp=sharing)  
 
 📬 **Reach me at:** [sonisanskar0001@gmail.com](mailto:sonisanskar0001@gmail.com)
 
