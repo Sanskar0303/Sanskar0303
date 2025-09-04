@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, I'm Sanskar Soni</h1>
 
-- I’m currently learning **Flask (Python Framework)**  
+- I’m currently learning **Data enineering concepts)**  
 - Gaining hands-on experience with Python, **actively exploring the broader landscape of technology to enhance my technical and analytical skills.**  
 - My skills also include **DBMS**, **Cloud Computing**, **Data Exploration**, and working with Python libraries like **Pandas**.  
 
