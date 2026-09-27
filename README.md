@@ -18,7 +18,7 @@
 * 🔍 Interested in transforming raw data into **meaningful insights that support better business decisions**.
 * 🚀 Continuously improving my analytical, technical and problem-solving skills through certifications and hands-on projects.
 
-📄 **Know about my experience:** [View My Resume](https://drive.google.com/file/d/1sdVWB0CBBWIMBZ5LNfGrhMEYfUQuBMcA/view?usp=sharing)
+📄 **Resume:** [View My Resume]()
 
 📬 **Reach me at:** [sonisanskar0001@gmail.com](mailto:sonisanskar0001@gmail.com)
 
