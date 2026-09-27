@@ -98,4 +98,4 @@ An interactive Power BI dashboard for analyzing Ola ride data, including booking
 
 ### ✨ Quote
 
-> "Turn data into insights, and insights into better decisions."
+> "RAW DATA NEVER LIES."
