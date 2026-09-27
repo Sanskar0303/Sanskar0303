@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **2025 Computer Science graduate** focused on building a career in **Data Analytics**.
-* 📊 Currently focused on **Data Analysis, Data Visualization, and Business Intelligence**.
-* 🐍 Working with **Python** and libraries such as **Pandas, NumPy, Matplotlib, and Seaborn** for data analysis.
+* 🎓 **2025 Computer Science graduate** focused on building a career as a **Data Analyst**.
+* 📊 Currently focused on **Data Analysis, Data Visualization and Business Intelligence**.
+* 🐍 Working with **Python** and libraries such as **Pandas, NumPy and Matplotlib** for data analysis.
 * 🗄️ Strong focus on **SQL, MySQL, data manipulation, querying, and database concepts**.
 * 📈 Building dashboards and reports using **Power BI, Tableau, and Excel**.
 * 🔍 Interested in transforming raw data into **meaningful insights that support better business decisions**.
-* 🚀 Continuously improving my analytical, technical, and problem-solving skills through hands-on projects.
+* 🚀 Continuously improving my analytical, technical and problem-solving skills through certifications and hands-on projects.
 
 📄 **Know about my experience:** [View My Resume](https://drive.google.com/file/d/1sdVWB0CBBWIMBZ5LNfGrhMEYfUQuBMcA/view?usp=sharing)
 
