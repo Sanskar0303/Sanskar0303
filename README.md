@@ -40,14 +40,11 @@
 
 * **Python**
 * **SQL**
-* **C++**
 
 ### 🐍 Python Libraries
 
 * **Pandas**
 * **NumPy**
-* **Matplotlib**
-* **Seaborn**
 
 ### 📈 Data Visualization & BI
 
