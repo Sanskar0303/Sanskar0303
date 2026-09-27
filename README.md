@@ -57,21 +57,10 @@
   * Data Cleaning
   * Charts & Dashboards
 
-### 🗄️ Database
-
-* **MySQL**
-* DBMS
-* SQL Queries
-* Joins
-* Aggregations
-* Subqueries
-* Window Functions
-
 ### 🧰 Developer Tools
 
 * VS Code
 * PyCharm
-* Git & GitHub
 
 ---
 
@@ -82,18 +71,6 @@
 **Power BI | Data Analysis | Data Visualization**
 
 An interactive Power BI dashboard for analyzing Ola ride data, including bookings, revenue, cancellations, ride trends, and customer-related metrics.
-
-### 🎵 Spotify Data Analysis
-
-**Python | Pandas | NumPy | Data Visualization**
-
-Analyzed Spotify data to explore music trends, track characteristics, artists, and other patterns using Python-based data analysis techniques.
-
-### 🤖 Nirvana AI – Voice AI Agent
-
-**Python | FastAPI | Google Gemini | AssemblyAI | Murf AI**
-
-Built a voice-based AI agent integrating speech recognition, LLM processing, and text-to-speech technologies.
 
 ---
 
